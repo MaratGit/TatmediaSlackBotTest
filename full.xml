@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Информационное агентство «Татар-информ»</title>
+        <link>http://www.tatar-inform.ru</link>
+        <description>Информационное агентство</description>
+        <language>ru</language>
+        <lastBuildDate>Sat, 21 Apr 2018 14:35:14 +0300</lastBuildDate>
+        <image>
+            <title>Информационное агентство «Татар-информ»</title>
+            <url>http://www.tatar-inform.ru/logo.gif</url>
+            <link>http://www.tatar-inform.ru</link>
+        </image>
+        <item>
+            <title>item_title_1</title>
+            <link>http://www.tatar-inform.ru</link>
+            <description>item_description_1</description>
+            <guid>1</guid>
+            <category>item_category_1</category>
+            <pubDate>Sat, 21 Apr 2018 14:31:10 +0300</pubDate>
+            <author>ИА «Татар-информ»</author>
+            <fulltext>item_fulltext_1</fulltext>
+        </item>
+        <item>
+            <title>item_title_2</title>
+            <link>http://www.tatar-inform.ru</link>
+            <description>item_description_2</description>
+            <guid>2</guid>
+            <category>item_category_2</category>
+            <pubDate>Sat, 21 Apr 2018 14:31:10 +0300</pubDate>
+            <author>ИА «Татар-информ»</author>
+            <fulltext>item_fulltext_2</fulltext>
+        </item>
+        <item>
+            <title>item_title_3
+            </title>
+            <link>http://www.tatar-inform.ru</link>
+            <description>item_description_3</description>
+            <guid>3</guid>
+            <category>item_category_3</category>
+            <pubDate>Sat, 21 Apr 2018 14:31:10 +0300</pubDate>
+            <author>ИА «Татар-информ»</author>
+            <fulltext>item_fulltext_3</fulltext>
+        </item>
+    </channel>
+</rss>
